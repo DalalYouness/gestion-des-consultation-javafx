@@ -32,7 +32,7 @@ Représente les entités principales du projet.
 Contient les fichiers **FXML** pour l’interface utilisateur.  
 - **`consultation-view.fxml`** : Interface pour gérer les consultations.  
 - **`patients-view.fxml`** : Interface pour gérer les patients.  
-- **`main-view.fxml`** : Interface principale de l'application.  
+- **`main-view.fxml`** : Interface principale de l'application.
 
 
 ![Ajout consultation1](https://github.com/user-attachments/assets/ad614267-8da7-4602-9629-7dc2d8715ebf)
